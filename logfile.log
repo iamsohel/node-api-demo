@@ -157,3 +157,16 @@
 {"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-05T08:42:48.089Z"}
 {"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-05T13:41:03.998Z"}
 {"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-05T13:41:06.014Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-08T13:28:18.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-08T13:28:21.120Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-09T05:41:30.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-09T05:41:32.903Z"}
+{"message":"User validation failed: email: Path `email` is required., name: Path `name` is required.","errors":{"email":{"message":"Path `email` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"email"},"kind":"required","path":"email","$isValidatorError":true},"name":{"message":"Path `name` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"name"},"kind":"required","path":"name","$isValidatorError":true}},"_message":"User validation failed","stack":"ValidationError: User validation failed: email: Path `email` is required., name: Path `name` is required.\n    at new ValidationError (F:\\Nodejs & Express\\node-api-demo\\node_modules\\mongoose\\lib\\error\\validation.js:27:11)\n    at model.Document.invalidate (F:\\Nodejs & Express\\node-api-demo\\node_modules\\mongoose\\lib\\document.js:1656:32)\n    at F:\\Nodejs & Express\\node-api-demo\\node_modules\\mongoose\\lib\\document.js:1528:17\n    at Immediate.<anonymous> (F:\\Nodejs & Express\\node-api-demo\\node_modules\\mongoose\\lib\\schematype.js:785:9)\n    at runCallback (timers.js:705:18)\n    at tryOnImmediate (timers.js:676:5)\n    at processImmediate (timers.js:658:5)","name":"ValidationError","level":"error","timestamp":"2021-03-09T06:11:20.754Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-09T10:06:57.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-09T10:07:00.618Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-10T06:17:21.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-10T06:17:23.471Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-10T09:10:35.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-10T09:10:37.484Z"}
+{"level":"info","message":"Listening on port 3001...","timestamp":"2021-03-11T06:35:39.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ts-sample...","timestamp":"2021-03-11T06:35:42.189Z"}
